@@ -1,3 +1,4 @@
+package questions;
 
 public class _06_PalindromeWithCharAt {
 	public static void main(String[] args) {
